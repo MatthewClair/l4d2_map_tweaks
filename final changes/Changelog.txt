@@ -4,6 +4,6 @@ Changelog
 - Fixed or blocked several exploits, glitch spots, punch spots, and stuck spots
 - You no longer have to prespawn to get inside of the breakable walls near the Dark Carnival 2 and Parish 4 Events
 - Nerfed the No Mercy 5 and Cold Stream 3 first ladder deathcharges
-- Removed Promod 3.3.3 Hard Rain 4 alarm car event near end saferoom (path still exists, however and is also applied to map 1)
+- Removed Promod 3.3.3 Hard Rain 4 alarm car event near end saferoom (path still exists, however)
 - Re-allowed Survivors to jump from the blue truck to the fences to the rooftop in Hard Rain 4
 - Significantly reduced hittables on Passing 1 due to balance issues. Reduced hittables slightly on Death Toll 1 opening area to allow early Tanks once again. Removed Cold Stream 4 hittable log.
